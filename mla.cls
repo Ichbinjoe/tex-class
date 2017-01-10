@@ -7,6 +7,8 @@
 \usepackage{setspace}
 \doublespacing
 
+\setlength\parindent{24px}
+
 \renewcommand{\author}[1]{\def\@author{#1}}
 \newcommand{\instructor}[1]{\def\@instructor{#1}}
 \newcommand{\classid}[1]{\def\@classid{#1}}
