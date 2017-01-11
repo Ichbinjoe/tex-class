@@ -1,13 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{mla}[2017/01/10 Joseph Hirschfeld Custom]
 
-\LoadClass[a4paper]{letter}
-
-\usepackage[margin=0.5in]{geometry}
-\usepackage{setspace}
-\doublespacing
-
-\setlength\parindent{24px}
+\LoadClass{basi
 
 \renewcommand{\author}[1]{\def\@author{#1}}
 \newcommand{\instructor}[1]{\def\@instructor{#1}}
