@@ -1,7 +1,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{mla}[2017/01/10 Joseph Hirschfeld Custom]
 
-\LoadClass{basi
+\LoadClass{basic}
 
 \renewcommand{\author}[1]{\def\@author{#1}}
 \newcommand{\instructor}[1]{\def\@instructor{#1}}
