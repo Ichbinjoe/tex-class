@@ -1,9 +1,9 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{basic}[2017/01/11 Joseph Hirschfeld Custom]
 
-\LoadClass[a4paper]{letter}
+\LoadClass[12pt]{report}
 
-\usepackage[margin=0.5in]{geometry}
+\usepackage[margin=1in]{geometry}
 \usepackage{setspace}
 \doublespacing
 
